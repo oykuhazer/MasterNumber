@@ -22,7 +22,7 @@ To integrate any of the view controllers into your project, follow the steps bel
 ## 1. Sign Up View Controller
 
 <p align="center">
-  <img src="https://github.com/oykuhazer/MasterNumber/assets/130215854/8009c21d-ee74-480e-99d2-2f5efa8a3d8f" alt="zyro-image" width="200" height="400">
+  <img src="https://github.com/oykuhazer/MasterNumber/assets/130215854/3d91a3a7-107c-43c7-af72-fb90361d4e6a)" alt="zyro-image" width="200" height="400">
 </p>
 
 This is a sample `SignUpViewController` class that demonstrates a sign-up screen in iOS using UIKit and Firebase. The view controller includes text fields for email and password input, a sign-up button, a login button, and a profile image view. It utilizes Firebase for user authentication and Firestore for data storage.
@@ -38,7 +38,7 @@ This is a sample `SignUpViewController` class that demonstrates a sign-up screen
 ## 2. Log In View Controller
 
 <p align="center">
-  <img src="https://github.com/oykuhazer/MasterNumber/assets/130215854/aa7b3187-b7e9-4004-9061-2778af7be795" alt="zyro-image" width="200" height="400">
+  <img src="https://github.com/oykuhazer/MasterNumber/assets/130215854/f8316161-0d9b-4ce4-a8bf-00e41c7d44b5" alt="zyro-image" width="200" height="400">
 </p>
 
 This is a sample `LogInViewController` class that demonstrates a login screen in iOS using UIKit and Firebase. The view controller includes text fields for email and password input, a login button, and a sign-up button. It utilizes Firebase for user authentication and Firebase Storage for retrieving a user's profile image.
@@ -55,7 +55,7 @@ This is a sample `LogInViewController` class that demonstrates a login screen in
 ## 3. View Controller
 
 <p align="center">
-  <img src="https://github.com/oykuhazer/MasterNumber/assets/130215854/61a0eacd-ffc7-4c8c-bb04-9fe258a2d60b" alt="Simulator Screenshot - iPhone 14 Pro - 2023-07-07 at 15 47 29" width="200" height="400">
+  <img src="https://github.com/oykuhazer/MasterNumber/assets/130215854/4834c657-43c2-4acc-9fb2-efbe4e09218b" alt="Simulator Screenshot - iPhone 14 Pro - 2023-07-07 at 15 47 29" width="200" height="400">
 </p>
 
 This is a sample `ViewController` class that demonstrates a view controller in iOS using UIKit. The view controller includes a gradient background, buttons with custom colors, a label for displaying a greeting message, an image view for the profile image, and a game menu with buttons.
@@ -77,7 +77,7 @@ This is a sample `ViewController` class that demonstrates a view controller in i
 ## 4. HWTPVC (How to Play View Controller)
 
 <p align="center">
-  <img src="https://github.com/oykuhazer/MasterNumber/assets/130215854/14c2f900-c425-46e8-a754-56b3c7c33dad" alt="Simulator Screenshot - iPhone 14 Pro - 2023-07-07 at 15 50 19"width="200" height="400">
+  <img src="https://github.com/oykuhazer/MasterNumber/assets/130215854/091c8d0d-f6a4-433e-a996-665172d1b459" alt="Simulator Screenshot - iPhone 14 Pro - 2023-07-07 at 15 50 19"width="200" height="400">
 </p>
 
 This is a sample `HWTPVC` (How to Play View Controller) class that demonstrates a view controller in iOS using UIKit. The view controller is used to display a tutorial or instructions on how to play a game. It includes multiple pages of text with a gradient background, a page control for navigation, and animated wave layers in the background.
@@ -97,10 +97,10 @@ This is a sample `HWTPVC` (How to Play View Controller) class that demonstrates 
   ## 5. PGVC (Play Game View Controller)
 
 <p align="center">
-  <img src="https://github.com/oykuhazer/MasterNumber/assets/130215854/933caf45-ae10-438e-be0c-7cf2ce4f8512" alt="Simulator Screenshot - iPhone 14 Pro - 2023-07-07 at 15 52 18" width="200" height="400">
-  <img src="https://github.com/oykuhazer/MasterNumber/assets/130215854/e05a4eb0-8eb5-4ca2-b519-13534622f857" alt="Simulator Screenshot - iPhone 14 Pro - 2023-07-07 at 15 52 28" width="200" height="400">
-  <img src="https://github.com/oykuhazer/MasterNumber/assets/130215854/4dc936de-889a-4065-a539-f83847ed7710" alt="Simulator Screenshot - iPhone 14 Pro - 2023-07-07 at 15 53 54" width="200" height="400">
-  <img src="https://github.com/oykuhazer/MasterNumber/assets/130215854/5ca3aadb-8b0c-44d5-a292-59f75e274a84" alt="Simulator Screenshot - iPhone 14 Pro - 2023-07-07 at 15 54 39" width="200" height="400">
+  <img src="https://github.com/oykuhazer/MasterNumber/assets/130215854/3f783f15-64a9-4257-97f5-896dde1b4c0e" alt="Simulator Screenshot - iPhone 14 Pro - 2023-07-07 at 15 52 18" width="200" height="400">
+  <img src="https://github.com/oykuhazer/MasterNumber/assets/130215854/217fe4bc-9a96-4ec9-b26e-13dff2dd5cf1" alt="Simulator Screenshot - iPhone 14 Pro - 2023-07-07 at 15 52 28" width="200" height="400">
+  <img src="https://github.com/oykuhazer/MasterNumber/assets/130215854/55a4e225-e039-4db3-b945-c7be25b9fda3" alt="Simulator Screenshot - iPhone 14 Pro - 2023-07-07 at 15 53 54" width="200" height="400">
+  <img src="https://github.com/oykuhazer/MasterNumber/assets/130215854/9c936f0a-b2af-4a2a-a2c5-f774758ab3ff" alt="Simulator Screenshot - iPhone 14 Pro - 2023-07-07 at 15 54 39" width="200" height="400">
 </p>
 
 In this project, there is a game where the user needs to guess a specific number. The game provides an interface for the user to enter a number and gives feedback based on their guesses.
@@ -127,7 +127,7 @@ In this project, there is a game where the user needs to guess a specific number
 ## 6. GalleryViewController
 
 <p align="center">
-  <img src="https://github.com/oykuhazer/MasterNumber/assets/130215854/7ac8e478-1818-4e9c-bd5c-44f3259920eb" alt="Simulator Screenshot - iPhone 14 Pro - 2023-07-07 at 15 37 30" width="200" height="400">
+  <img src="https://github.com/oykuhazer/MasterNumber/assets/130215854/a5e1a47e-d1c7-4817-86f9-a3c5f5e96213" alt="Simulator Screenshot - iPhone 14 Pro - 2023-07-07 at 15 37 30" width="200" height="400">
 </p>
 
 
